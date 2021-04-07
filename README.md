@@ -18,7 +18,7 @@ my-charts	https://yunsangjun.github.io/my-charts/stable
 ## Search charts in the repository
 
 ```
-$ helm search my-charts
+$ helm search repo my-charts
 NAME          	CHART VERSION	APP VERSION	DESCRIPTION                
 my-charts/demo	0.1.0        	1.0        	A Helm chart for Kubernetes
 ```
