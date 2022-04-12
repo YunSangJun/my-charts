@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   demo:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2022-04-12T23:48:17.3188773+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 8ca9a1d0fd31725e2ce564f1e48595ea405331fa157d5b7c190679bf5c8208e8
+    name: demo
+    type: application
+    urls:
+    - https://yunsangjun.github.io/my-charts/stable/demo-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-01-17T23:05:33.8876236+09:00"
+    created: "2022-04-12T23:48:17.3172638+09:00"
     description: A Helm chart for Kubernetes
     digest: 6d239e71ae66a524ef6711a91599bc45b70bd72d0e15ca7336200045a29a81cb
     name: demo
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://yunsangjun.github.io/my-charts/stable/demo-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-17T23:05:33.8807349+09:00"
+generated: "2022-04-12T23:48:17.3127455+09:00"
